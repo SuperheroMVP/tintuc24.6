@@ -1,0 +1,1 @@
+<h2>Vui lòng bấm vào <a href="{{$route}}">Đường Link</a> để đổi mật khẩu</h2>
