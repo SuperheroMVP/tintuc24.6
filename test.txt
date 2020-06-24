@@ -1,1 +1,8 @@
 test thoi
+
+echo "# tintuc24.6" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/SuperheroMVP/tintuc24.6.git
+git push -u origin master
